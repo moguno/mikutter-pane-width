@@ -5,7 +5,7 @@ depends:
   plugin:
   - gui
   - gtk
-version: '0.0.1'
+version: '0.0.2'
 author: moguno
 name: "ペインのサイズ変更"
 description: "ペインのサイズを変更可能にします。┌(┌^o^)┐"
