@@ -1,4 +1,4 @@
-#subparts_image
+#mikutter-pane-width
 
 ##これにゃん？
 mikutterのペインの幅を拡大したり縮小したり出来る様になります。
