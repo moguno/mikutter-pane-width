@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 
 Plugin.create :mikutter_homo do |service|
   command(:thin_pane,
